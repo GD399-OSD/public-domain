@@ -12,6 +12,11 @@ I believe subculture is dead (for reasons that I will publish here, eventually) 
 
 After a couple weeks of research and internal debate, I settled on __Public Domain__, a library of subculture.
 
+## Are.na Channels
+A good portion of my research and thinking is located in two channels on Are.na:
+* [Public Domain — Library of Subculture](https://www.are.na/devin-halladay/public-domain-library-of-subculture) — This channel contains research, visuals, and process shots related to Public Domain itself.
+* [Public Domain — Library Content](https://www.are.na/devin-halladay/public-domain-library-content) — This channel will eventually contain bits of content collected for the hypothetical library.
+
 
 ## What's in this repo?
 This repository is meant to be a catch-all for my files, thinking, failures, and other design/thought detritus throughout the design process of this project.
