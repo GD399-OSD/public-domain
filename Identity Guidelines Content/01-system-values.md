@@ -1,5 +1,4 @@
 # System Values
----
 
 ## Objective
 
@@ -10,6 +9,7 @@ The objective of this document is to establish, amplify, and continuously subver
 The contents of this document should be viewed as guidelines and system boundaries, not as categorical rules.
 We wish to recognize through our identity that aesthetics are in fact a political artifact, that open design processes are possible, and that everyone should have a say in the way our institutions are shaped.
 
+---
 
 ## Core Values
 ### Our values drive every decision we make. The Public Domain brand should always be presented in terms that embody these ideals.
@@ -29,6 +29,8 @@ We wish to recognize through our identity that aesthetics are in fact a politica
 1. Openess
 2. Freedom
 3. Criticality
+
+---
 
 ## Aesthetic Values
 ### Public Domain seeks to establish an anti-aesthetic in all our visual outputs: an aesthetic that remains aware of itself and its implications.
