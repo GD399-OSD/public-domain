@@ -8,7 +8,7 @@ The guidelines enclosed in this book are intended to establish the relative boun
   3. Aesthetic Values
 2. System Boundaries
   1. Logo
-  2. Anti-Logo
   3. Color
   4. Typography
-  5. Collateral
+  5. Composition
+  6. Collateral
