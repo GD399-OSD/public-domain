@@ -1,6 +1,6 @@
 # System Index
 
-The guidelines enclosed in this book are intended to establish the relative boundaries of the identity system for Public Domain.
+The guidelines enclosed in this book are intended to establish the territorial boundaries of the identity system for Public Domain.
 
 
 1. System Values
