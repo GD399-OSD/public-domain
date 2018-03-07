@@ -5,6 +5,9 @@ This is an open project for Kiel Mutschelknaus' Spring 2018 Graphic Design 4 cou
 
 ******
 
+## [Public Domain Design Doc](https://www.figma.com/file/cNGO0OJ05k6uMFeiJoVOB2Kq/Public-Domain)
+Feel free to look through the Figma doc above to see my design progress. If you want to contribute to the design side of this project, all are welcome—just let me know and I will invite you to collaborate. 
+
 ## Project Overview
 The brief is to identify a subculture, conceptualize a business or institution that caters to a need that subculture has, and to create a variable identity system for said business or institution.
 
